@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.topContainer
+{
+    background-color: #22A39F;
+    width: 100%
+}
+.botContainer
+{
+    background-color: #fdfdfd;
+    width: 100%
+}
+.cloud1
+{
+    margin-left: 25%;
+}
+.cloud2
+{
+    margin-left: 0%;
+}
+.cloud3
+{
+    margin-left: 50%;
+}
+
+
+.mountain
+{
+align-items: center;
+}
+.backgroundPhoto
+{
+align-items: center;
+border-block: round;
+width: 250px;
+height: 250px;
+border-radius: 50%;
+/* margin-left: 100px; */
+/* display: -webkit-flex;
+-webkit-flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap; */
+}
